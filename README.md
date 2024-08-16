@@ -1,3 +1,6 @@
+## VİDEO KAYDI: ![Screen Recording 2024-08-16 at 09 19 48 16 PM](https://github.com/user-attachments/assets/0599f591-2679-459a-8301-d77ce8357b3c)
+
+
 ## Kurulum
 
 - npm install @reduxjs/toolkit
